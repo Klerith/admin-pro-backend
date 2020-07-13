@@ -2,3 +2,16 @@
 
 
 node_modules/
+
+
+uploads/hospitales/**.jpg
+uploads/hospitales/**.png
+uploads/hospitales/**.gif
+
+uploads/usuarios/**.jpg
+uploads/usuarios/**.png
+uploads/usuarios/**.gif
+
+uploads/medicos/**.jpg
+uploads/medicos/**.png
+uploads/medicos/**.gif
